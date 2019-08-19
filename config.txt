@@ -1,6 +1,6 @@
 owner=511414201823133714
-prefix=!
-game=AR Community
+prefix=+
+game= AR Community
 stayinchannel=true
 songinstatus=false
-token=NjEzMDI2MDUxMDg1NDM0ODkw.XVq86w._LAsc7-zBo7K22jaLvWmlX-o6cM
+token=NjEzMDI2MDUxMDg1NDM0ODkw.XVq_Yw.t3cec_rq95M-Qn-qENtWi2-NryY
